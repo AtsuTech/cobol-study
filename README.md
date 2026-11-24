@@ -1,4 +1,4 @@
-
+# Cobol学習
 
 ## コンパイラ
 GnuCOBOL

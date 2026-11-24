@@ -1,4 +1,7 @@
+       *> 見出し
        IDENTIFICATION DIVISION. 
        PROGRAMING-ID. ADD_LESSON2.
 
-       
+       *>データ部
+       ENVIRONMENT DIVISION.
+       CONFIGURATION SECTION.
