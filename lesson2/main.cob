@@ -5,3 +5,8 @@
        *>データ部
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       01 WORK-AREA.
+       
+       
